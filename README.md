@@ -4,6 +4,9 @@ The flag is found at commit 9116e1f in file Esrever.txt.  The Esrever.txt file i
 
 ##Building/Running the Challenge
 
+
    git clone 
+
    ...
+
    git checkout 9116e1f
